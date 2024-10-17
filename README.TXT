@@ -22,7 +22,7 @@ open the project.greenfoot.exe file
 
 AUTHORS:
 
-Estiben Gomez. I've used the sources and resources (websites) ive used listed in the resources and sources.txt file
+iStackz. I've used the sources and resources (websites) ive used listed in the resources and sources.txt file
 
 USER INSTRUCTIONS:
 
